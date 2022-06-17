@@ -5,12 +5,12 @@
 
 ### Front-end content
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `completed` - HTML
+- [x] `completed` - HTML
 - [ ] CSS
 - [ ] JavaScript
 
 ### Back-end content
 
-- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `completed` - PHP
+- [x] `completed` - PHP
 - [ ] MySQL
 
