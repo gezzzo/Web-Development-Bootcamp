@@ -3,14 +3,18 @@
 
 ![35%](https://progress-bar.dev/35/?title=Done)
 
-### Front-end content
+### Web Development Bootcamp
 
 - [x] `completed` - HTML
 - [ ] CSS
+- [ ] Bootstrap 5
 - [ ] JavaScript
-
-### Back-end content
-
-- [x] `completed` - PHP
+- [ ] CMD
+- [ ] Git & GitHub 
+- [ ] ReactJs
+- [ ] PHP
+- [ ] Database
 - [ ] MySQL
+- [ ] MVC
+- [ ] Laravel
 
